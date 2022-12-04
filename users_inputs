@@ -1,0 +1,9 @@
+#!/bin/bash
+read -p "Enter first name: " first_name
+echo "Your name is ${first_name} !"
+
+read -p "Enter last name: " last_name
+echo "Your last name is ${last_name} !"
+
+read  -p "Where are you from: " country_name
+echo "You are from ${country_name} !"
