@@ -1,0 +1,2 @@
+#!/bin/bash
+echo | ssh 07aae7547db1@07aae7547db1.bd8cd164.alx-cod.online
